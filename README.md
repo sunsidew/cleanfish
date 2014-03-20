@@ -1,6 +1,5 @@
 # Cleanfish
 Ruby Gem, Simple HTML Parser
-Prototyped : http://github.com/sunsidew/HTMLParser-Ruby
 
 ## Installation
 
@@ -19,6 +18,10 @@ Or install it yourself as:
 ## Usage
 
 TODO: Write usage instructions here
+
+## Prototype
+
+http://github.com/sunsidew/HTMLParser-Ruby
 
 ## Contributing
 
